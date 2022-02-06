@@ -336,34 +336,34 @@ center {
 
 p {
     font-size: 60px;
-    margin-left: 80px;
+    margin-left: 0px;
 }
 
 h1 {
     font-size: 20px;
-    margin-left: 80px;
+    margin-left: 0px;
 }
 
 h2 {
     text-align: center;
-    margin-left: 80px;
+    margin-left: 0px;
 }
 
 h3 {
     text-align: center;
-    margin-left: 80px;
+    margin-left: 0px;
 }
 
 
 h4 {
     font-size: 25px;
     text-align: center;
-    margin-left: 80px;
+    margin-left: 0px;
 }
 
 h5 {
     font-size: 25px;
-    margin: 10px;
+    margin: 0px;
 }
 
 
@@ -371,6 +371,7 @@ h5 {
 Center{ 
     
     margin-left: 0px;
+    zoom: 70%;
 }
 
 
